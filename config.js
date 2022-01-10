@@ -1,19 +1,22 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    introTitle: 'Baeeeee à!',
+    introDesc: `Hôm nay là sinh nhật của Quách Lem nhà mình. 
+    Do cách nhau tận 350km 😢 
+    Nên Wannguyennn có món quà nhỏ muốn tặng cho Quách Lem nèeeeeeeee 🎂 
+    Hi vọng Quách Lem sẽ thích món quà nhỏ này của Wannguyennn nhaaaaaa ♥️`,
+    btnIntro: 'Sanh nhật dui dẻ 🔅',
+    title: 'Happy Birthday to Quách Lemmmm 😙',
+    desc: 'Mừng sinh nhật tuổi 21 của Bae nhaaaaa 🍭 ',
+    btnYes: 'Bae sinh nhật tuổi 21 dui nhaaaaaa <33',
+    btnNo: 'Còn nữa á bấm nút màu đỏ á nha Baeeee :3',
+    question:'Lem hãy bấm gì đó đi gì cũng được  ❣️',
+    btnReply: 'Gửi cho Wannguyennn nèeeeeeeee <3',
+    reply: `Thật tiếc vì sinh nhật Lam trúng ngay ngày bé Wann đi Đà Lẹt 😭 
+    Hi vọng tuổi 21 của Lemmm có thật nhiều niềm vui <33333333
+    Hạnh phúc bên gia đình, người thân và bạn bè 😙
+    Và sớm có được bé Wann nhaaaaaaaa 😜`,
+    mess: 'Bấm vào đây để gửi nè 🥰. Hi vọng tương lai mình sẽ có nhau nheeeee 😘😘',
     messDesc: 'Love you baeeeeee.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/quan.nqaos/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnAccept: 'Okiiiii lun 💖',
+    messLink: 'https://www.instagram.com/wannguyennn/' //link mess của các bạn. VD: https://www.instagram.com/direct/t/340282366841710300949128522297756336238
 }
