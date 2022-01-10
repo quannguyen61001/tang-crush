@@ -17,3 +17,4 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun 💖',
     messLink: 'https://www.instagram.com/wannguyennn/' //link mess của các bạn. VD: https://www.instagram.com/direct/t/340282366841710300949128522297756336238
 }
+
