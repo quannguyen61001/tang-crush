@@ -17,7 +17,7 @@ const CONFIG = {
     reply: 'Hi vọng tuổi 21 của Lemmm có thật nhiều niềm vui <33333333 Hạnh phúc bên gia đình, người thân và bạn bè 😙 Và sớm có được bé Wann nhaaaaaaaa 😜',
     mess: 'Bấm vào đây để gửi nè 🥰. Hi vọng tương lai mình sẽ có nhau nheeeee 😘😘',
     messDesc: 'Love you baeeeeee.',
-    btnAccept: 'Okiiiii lun 💖',
+    btnAccept: 'Okiiiii lun 💖 ',
     messLink: 'https://www.instagram.com/wannguyennn/' //link mess của các bạn. VD: https://www.instagram.com/direct/t/340282366841710300949128522297756336238
 }
 
