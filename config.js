@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Còn nữa á bấm nút màu đỏ á nha Baeeee :3',
     question:'Lem hãy bấm gì đó đi gì cũng được  ❣️',
     btnReply: 'Gửi cho Wannguyennn nèeeeeeeee <3',
-    reply: 'Hi vọng tuổi 21 của Lemmm có thật nhiều niềm vui <33333333 Và sớm có được bé Wann nhaaaaaaaa 😜',
+    reply: 'Hi vọng tuổi 21 của Lemmm có thật nhiều niềm vui <33333333 Và sớm có được bé Wann nhaaaaaaaa Baeee 😜',
     mess: 'Bấm vào đây để gửi nè 🥰. Hi vọng tương lai mình sẽ có nhau nheeeee 😘😘',
     messDesc: 'Love you baeeeeee.',
     btnAccept: 'Okiiiii lun 💖',
