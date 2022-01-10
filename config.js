@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Baeeeee à!',
     introDesc: `Hôm nay là sinh nhật của Quách Lem nhà mình. 
-    Do cách nhau tận 350km 😢 
+    Do cách nhau tận 350km "khók" 😢 
     Nên Wannguyennn có món quà nhỏ muốn tặng cho Quách Lem nèeeeeeeee 🎂 
     Hi vọng Quách Lem sẽ thích món quà nhỏ này của Wannguyennn nhaaaaaa ♥️`,
     btnIntro: 'Sanh nhật dui dẻ 🔅',
