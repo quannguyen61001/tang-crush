@@ -1,12 +1,12 @@
 const CONFIG = {
     introTitle: 'Baeeeee à!',
     introDesc: `Hôm nay là sinh nhật của Dĩm Dĩm nhà mình. 
-    Do cách nhau tận 12km "khók" 😢 
+    Do gấp rút chuẩn bị xiền bạc cho chuyến đi "Tuần trăng mật" đầu tiên của tụi mình "khók" 😢 
     Nên Wannguyennn có món quà nhỏ muốn tặng cho Dĩm Dĩm nèeeeeeeee 🎂 
-    Hi vọng Dĩm Dĩm sẽ thích món quà nhỏ này của Wannguyennn nhaaaaaa ♥️`,
+    Hi vọng em sẽ thích món quà nhỏ này của anh nhaaaaaa hihi ♥️`,
     btnIntro: 'Sanh nhật dui dẻ nha em iuuuuuu 🔅',
     title: 'Happy Birthday to bé iu nhà mìnhhhhhh 😙',
-    desc: 'Mừng sinh nhật tuổi 23 của Bae nhaaaaa 🍭 ',
+    desc: 'Mừng sinh nhật tuổi 23 của Baeeeee nhaaaaa 🍭 ',
     btnYes: 'Bae sinh nhật tuổi 23 dui dẻeeeeeeeee nhaaaaaa <33',
     btnNo: 'Còn nữa á bấm nút màu đỏ á nha Baeeee :3',
     question:'Bé iu bấm gì đi cũng được  ❣️',
