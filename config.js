@@ -15,6 +15,6 @@ const CONFIG = {
     mess: 'Bấm vào đây để gửi nè 🥰. Hi vọng tụi mình sẽ ăn thật nhiều cái sinh nhật cùng nhau nữa nheeeee 😘😘',
     messDesc: 'Love you baeeeeee.',
     btnAccept: 'Okiiiii lun 💖',
-    messLink: 'https://www.instagram.com/wannguyennn/' //link mess của các bạn. VD: https://www.instagram.com/direct/t/340282366841710300949128522297756336238
+    messLink: 'https://www.instagram.com/wannguyennn/' //link mess. VD: https://www.instagram.com/direct/t/340282366841710300949128522297756336238
 }
 
